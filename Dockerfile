@@ -1,4 +1,4 @@
-FROM kylemanna/openvpn
+FROM lawtancool/docker-openvpn-xor
 
 ADD ovpn_run_simple.sh .
 
